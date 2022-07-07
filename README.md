@@ -1,8 +1,54 @@
-# Getting Started with Create React App
+# This is project is based on creating the frontend of a design provided by mezchip
+
+## The Design:-
+
+<br/>
+
+### top
+<img align = "center" img src = "./blob/img1.png" width="80%">
+
+<hr />
+
+### bottom
+<img align = "center" img src = "./blob/img2.png" width="80%">
+
+<hr />
+
+### modal
+<img align = "center" img src = "./blob/img3.png" width="80%">
+
+<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Requirements
+
+<ul>
+    <li> React version 18.2.0 </li>
+    <li> Bootstrap version 5 </li>
+    <li> React-Bootstrap version 2.4.8 </li>
+    <li> React-helmet version 6.1.0 </li>
+    <li> React-icons version 4.4.0 </li>
+    <li> Sass version 1.53.0 </li>
+</ul>
+
+## To clone the project
+
+> one gitbash on windows or terminal on mac
+
+- `git clone https://github.com/nectro/Mezchip_Assignment.git`
+
+## To start the project
+
+> React development server in local machine
+
+- `cd client`
+- `npm install`
+- `npm start`
+
+**_the server will run on_** [localhost port 3000](http://localhost:3000)
+
+## Other Available Scripts
 
 In the project directory, you can run:
 
