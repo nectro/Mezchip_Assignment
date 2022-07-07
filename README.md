@@ -1,6 +1,6 @@
 # This is project is based on creating the frontend of a design provided by mezchip
 
-## The Design:-
+## The Design Built:-
 
 <br/>
 
