@@ -1,0 +1,5 @@
+.cartInfo{
+    display: grid;
+    grid-template-columns: 2.2fr 1fr;
+    min-height:100px;
+}
